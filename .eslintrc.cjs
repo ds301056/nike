@@ -6,7 +6,7 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
     'plugin:react-hooks/recommended',
-    'plugin:prettier/recommended',  // Add this line to integrate Prettier with ESLint
+    'plugin:prettier/recommended', // Integrate Prettier with ESLint
   ],
   ignorePatterns: ['dist', '.eslintrc.cjs'],
   parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
@@ -17,7 +17,15 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
-    "react/prop-types": 0,
-    "prettier/prettier": ["error"],  // Add this line to enforce Prettier rules
+    'react/prop-types': 0,
+    'prettier/prettier': [
+      'error',
+      {
+        singleQuote: true,
+        trailingComma: 'all',
+        tabWidth: 2,
+        semi: false,
+      },
+    ],
   },
 }

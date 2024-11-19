@@ -5,10 +5,6 @@ This is a responsive Nike Landing Page built using React, Vite, and Tailwind CSS
 https://devhorizon.io/nike-landing/
 ---
 
-
-🎥 Scrolling Video 
-https://github.com/user-attachments/assets/4453eac3-46d0-4178-91aa-b5b398462afd
-
 📸 Screenshots
 Products Section
 

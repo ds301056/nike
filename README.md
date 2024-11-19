@@ -35,7 +35,7 @@ Tailwind CSS: For modern styling and responsiveness.
 ## 📂 Project Structure
 
 ```plaintext
-📂 Project Structure
+📂 Nike-LandingPage
 ├── public/               # Static assets (e.g., images, icons)
 ├── src/                  # Source code
 │   ├── components/       # Reusable components (e.g., Header, Footer)
@@ -45,7 +45,6 @@ Tailwind CSS: For modern styling and responsiveness.
 ├── package.json          # Project dependencies
 ├── tailwind.config.js    # Tailwind CSS configuration
 └── vite.config.js        # Vite configuration
-
 ```
 
 ---

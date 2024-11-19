@@ -34,15 +34,17 @@ Tailwind CSS: For modern styling and responsiveness.
 
 📂 Project Structure
 
-├── public/          # Static assets
-├── src/
-│   ├── components/  # Reusable components (e.g., Header, Footer, ProductCard)
-│   ├── pages/       # Page components (e.g., HomePage)
-│   ├── assets/      # Images, logos, and other media
-│   └── App.jsx      # Main app component
-├── package.json     # Project dependencies
-├── tailwind.config.js  # Tailwind configuration
-└── vite.config.js   # Vite configuration
+📂 Project Structure
+├── public/               # Static assets (e.g., images, icons)
+├── src/                  # Source code
+│   ├── components/       # Reusable components (e.g., Header, Footer, ProductCard)
+│   ├── pages/            # Page components (e.g., HomePage)
+│   ├── assets/           # Images, logos, and other media
+│   └── App.jsx           # Main app component
+├── package.json          # Project dependencies
+├── tailwind.config.js    # Tailwind CSS configuration
+└── vite.config.js        # Vite configuration
+
 
 ---
 

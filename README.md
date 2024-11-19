@@ -46,7 +46,7 @@ Tailwind CSS: For modern styling and responsiveness.
 ├── tailwind.config.js    # Tailwind CSS configuration
 └── vite.config.js        # Vite configuration
 
-
+```
 
 ---
 
